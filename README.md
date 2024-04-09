@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Read.me-pro
 <h1 align="center">👋🏻 Hello !! My name is Thyda IT lover👋🏻</h1> 
-<h3 align="center">A passionate software developer from Cambodia KH and also a Graphic Designer</h3>
+<h3 align="center">A passionate software developer from Cambodia and also a Manage Projector in IT skill . </h3>
 
 <br/>
 
@@ -21,7 +21,7 @@
   <a href="mailto:mengseu2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/MengseuThoeng" target="_blank">
+  <a href="https://github.com/thathyda" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -32,11 +32,14 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,cs,java,nextjs,mysql,idea,ps,pr,postman,ae" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,nextjs,mysql,idea,postman" /><br>
 </div>
 
 <br/>
 # readme-custom
-<img src= "https://i.pinimg.com/236x/1e/a7/12/1ea7122b37c6e5cd2ae18dc995a1dc30.jpg" / >
+<div align="center">
+    <img src="https://i.pinimg.com/236x/fa/f7/54/faf754cdc239a38d89c933218105e39c.jpg" />
+    <img src="https://i.pinimg.com/236x/19/77/33/197733392fb6531e8ef1eb10049c97ff.jpg" /><br>
+</div>
 
 
