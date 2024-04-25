@@ -37,7 +37,6 @@
 <br/>
 # readme-custom
 <div align="center">
-    <img src="https://i.pinimg.com/236x/fa/f7/54/faf754cdc239a38d89c933218105e39c.jpg" />
     <img src = "https://c4.wallpaperflare.com/wallpaper/570/86/323/anime-anime-girls-horns-simple-background-wallpaper-preview.jpg"
 </div>
 
