@@ -18,7 +18,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:mengseu2004@gmail.com">
+  <a href="thydatha484@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://github.com/thathyda" target="_blank">
@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,nextjs,mysql,idea,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,nextjs,mysql,idea,postman,spring boot" /><br>
 </div>
 
 <br/>
