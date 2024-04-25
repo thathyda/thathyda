@@ -38,7 +38,7 @@
 # readme-custom
 <div align="center">
     <img src="https://i.pinimg.com/236x/fa/f7/54/faf754cdc239a38d89c933218105e39c.jpg" />
-    <img src="[https://i.pinimg.com/236x/19/77/33/197733392fb6531e8ef1eb10049c97ff.jpg](https://c4.wallpaperflare.com/wallpaper/941/591/781/anime-anime-girls-elfen-lied-realistic-wallpaper-thumb.jpg)" /><br>
+    <img src = "https://c4.wallpaperflare.com/wallpaper/570/86/323/anime-anime-girls-horns-simple-background-wallpaper-preview.jpg"
 </div>
 
 
