@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,nextjs,mysql,idea,postman,spring boot" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,nextjs,mysql,idea,postman,spring boot, cisco" /><br>
 </div>
 <br/>
 # readme-custom
